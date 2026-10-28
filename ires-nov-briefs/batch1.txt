@@ -1,0 +1,108 @@
+C01 is approved. Same rules as C01 (official logo exactly as attached, NO HUMAN FACES - hands or arms only, strong variety between slides, every cover must look different from every other cover, all text 90 px inside the side edges, exactly 4:5).
+
+Make the carousels below now, one after another, without stopping to ask. Exactly 6 images per carousel, in order. Before each image write only the code, for example "C02-1".
+
+C02 · WED NOV 4 · RENTERS · "Your lease ends in 60 days. Now what?"
+Recurring object: a red folder labeled "LEASE"
+SLIDE 1 · COVER (01/06)
+Pill: "RENTER RULES"
+Headline: "Lease ending" (black) / "in 60 days?" (red, brush underline) / "Do this now." (white in red box)
+Sub: "Renew, move or negotiate. Don't wait."
+Scene: a renter's hands holding a red folder labeled "LEASE" on a cozy sofa in warm evening lamp light, a laptop and tea nearby. Hands only, no face.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "STEP 1"
+Headline: "Read your" (black) / "notice terms." (white in red box)
+Body: "Your lease says how much notice you must give before you leave. Check it first."
+Scene: close-up of an open lease inside the red folder, a highlighter resting on it.
+SLIDE 3 (03/06)
+Pill: "STEP 2"
+Headline: "Watch for a" (black) / "rent change." (red, brush underline)
+Body: "In Nevada, a landlord must give at least 60 days' written notice before raising the rent."
+Scene: an opened envelope and a printed letter on a coffee table, the red folder beside it.
+SLIDE 4 (04/06)
+Pill: "STEP 3"
+Headline: "Want to stay?" (black) / "Ask early." (white in red box)
+Body: "Renewal talks go better weeks ahead, not days before the lease ends."
+Scene: a phone on a living room sofa arm showing an email being typed, the red folder on the cushion.
+SLIDE 5 (05/06)
+Pill: "STEP 4"
+Headline: "Moving out?" (black) / "Plan the walkthrough." (red, brush underline)
+Body: "Clean, fix small damage and take photos so your deposit has the best chance."
+Scene: a renter's hand holding a phone up to photograph a clean, empty bedroom, the red folder on the bed. Hand only, no face.
+SLIDE 6 · CTA (06/06)
+Headline: "Questions about" (black) / "your lease?" (white in red box)
+Sub: "We're here to help Las Vegas renters."
+Small text: "General information, not legal advice."
+Scene: the red folder tucked under an arm on an apartment balcony at sunset, city lights starting to glow. Arm only, no face.
+Contact bar + SAVE + SHARE.
+
+C03 · FRI NOV 6 · OWNERS · "5 costs owners forget"
+Recurring object: a red calculator
+SLIDE 1 · COVER (01/06)
+Pill: "OWNER TIPS"
+Headline: "5 rental costs" (black) / "most owners forget" (red, brush underline) / "to budget for." (white in red box)
+Sub: "Rent isn't profit until these are covered."
+Scene: a tidy garage workbench with hand tools on a pegboard, a printed rent ledger and the red calculator on the bench, warm overhead garage light.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "COST 1"
+Headline: "The big" (black) / "replacements." (white in red box)
+Body: "AC units, water heaters and roofs wear out. Set money aside every month."
+Scene: an outdoor AC unit beside a block wall, the red calculator on top of it.
+SLIDE 3 (03/06)
+Pill: "COST 2"
+Headline: "Turnover" (black) / "between tenants." (red, brush underline)
+Body: "Paint, carpet cleaning and small repairs add up every time someone moves out."
+Scene: a paint tray and roller on a drop cloth, the red calculator beside it.
+SLIDE 4 (04/06)
+Pill: "COST 3 + 4"
+Headline: "Insurance and" (black) / "HOA increases." (white in red box)
+Body: "Premiums and HOA dues can go up. Review them every year."
+Scene: an insurance renewal letter and an HOA statement on a table, the red calculator on top.
+SLIDE 5 (05/06)
+Pill: "COST 5"
+Headline: "Empty" (black) / "months." (red, brush underline)
+Body: "Plan for some vacancy. A rental that's never empty is the exception, not the rule."
+Scene: an empty bedroom with sunlight on the floor, the red calculator on the windowsill.
+SLIDE 6 · CTA (06/06)
+Headline: "Budget for it" (black) / "before it hits." (white in red box)
+Sub: "We help Las Vegas owners plan ahead."
+Scene: a laptop showing a budget on a dark wood desk at night, the red calculator beside it, desk lamp glow.
+Contact bar + SAVE + SHARE.
+
+C04 · SUN NOV 8 · BUYERS · "8 things nobody tells you before buying in Vegas"
+Recurring object: a red house-shaped keychain
+SLIDE 1 · COVER (01/06)
+Pill: "BUYER TIPS"
+Headline: "Buying in Vegas?" (black) / "8 things nobody" (red, brush underline) / "tells you." (white in red box)
+Sub: "Save this before your first showing."
+Scene: two hands holding a red house-shaped keychain in front of an open front door, bright hallway inside. Hands only, no faces.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "1 + 2"
+Headline: "Read the HOA rules" (black) / "and the fees." (white in red box)
+Body: "Dues, rental rules and special assessments all affect what you really pay."
+Scene: a thick HOA document on a coffee table with the red keychain on top.
+SLIDE 3 (03/06)
+Pill: "3 + 4"
+Headline: "Ask about" (black) / "SID or LID." (red, brush underline)
+Body: "Some Vegas homes carry special assessments for streets and utilities. Ask who pays."
+Scene: a property disclosure folder and a pen on a kitchen island, the red keychain beside it.
+SLIDE 4 (04/06)
+Pill: "5 + 6"
+Headline: "Get insurance quotes" (black) / "before you offer." (white in red box)
+Body: "Insurance and summer power bills change your monthly cost more than you think."
+Scene: a thermostat on a hallway wall and a phone showing an insurance app, the red keychain hanging nearby.
+SLIDE 5 (05/06)
+Pill: "7 + 8"
+Headline: "Drive it at" (black) / "rush hour." (red, brush underline)
+Body: "Check the commute at 5 PM and visit the street at night before you commit."
+Scene: a car windshield view of a suburban street at dusk, the red keychain hanging from the mirror.
+SLIDE 6 · CTA (06/06)
+Headline: "Buy with" (black) / "your eyes open." (white in red box)
+Sub: "Talk to a local team before you write the offer."
+Scene: a hand unlocking a front door with the red keychain, warm porch light at dusk. Hand only, no face.
+Contact bar + SAVE + SHARE.
+
+After the last slide, make ONE downloadable ZIP named IRES_Nov_C02-C04.zip with all 18 slides as PNG, exactly 1080x1350, named like C02_01.png to C02_06.png. Also include the 6 final approved C01 slides (with the redone slides 2, 3, 5, 6) as C01_01.png to C01_06.png. Verify every file is complete before giving the link.

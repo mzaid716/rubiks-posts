@@ -1,0 +1,107 @@
+Same rules as C01 (official logo exactly as attached, NO HUMAN FACES - hands or arms only, strong variety between slides, every cover must look different from every other cover, all text 90 px inside the side edges, exactly 4:5).
+
+Make the carousels below now, one after another, without stopping to ask. Exactly 6 images per carousel, in order. Before each image write only the code, for example "C02-1".
+
+C05 · TUE NOV 10 · OWNERS · "What self-managing really costs"
+Recurring object: a red smartphone
+SLIDE 1 · COVER (01/06)
+Pill: "OWNER TALK"
+Headline: "Managing your" (black) / "own rental?" (red, brush underline) / "Count the hours." (white in red box)
+Sub: "Your time is part of the cost."
+Scene: a red smartphone lighting up with a call on a kitchen table at night, papers spread out, moody lamp light. No people.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "THE CALLS"
+Headline: "Repairs don't" (black) / "keep office hours." (white in red box)
+Body: "AC out on a Saturday? You're the one getting the call."
+Scene: a red smartphone ringing on a nightstand next to a clock showing late night.
+SLIDE 3 (03/06)
+Pill: "THE SCREENING"
+Headline: "Finding the" (black) / "right tenant." (red, brush underline)
+Body: "Showings, applications, background checks and follow-ups take real time."
+Scene: a stack of rental applications on a desk with the red smartphone on top.
+SLIDE 4 (04/06)
+Pill: "THE RULES"
+Headline: "Nevada rules" (black) / "you must follow." (white in red box)
+Body: "Notices, deposits and late fees all have rules. Mistakes can cost you."
+Scene: a law-style reference binder and a notice form on a table, the red smartphone beside them.
+SLIDE 5 (05/06)
+Pill: "THE MONEY"
+Headline: "Chasing rent" (black) / "isn't free either." (red, brush underline)
+Body: "Late payments, reminders and records take hours every month."
+Scene: a laptop showing a spreadsheet, the red smartphone and a coffee mug at a home office desk.
+SLIDE 6 · CTA (06/06)
+Headline: "Want your" (black) / "time back?" (white in red box)
+Sub: "Talk to IRES about managing your Las Vegas rental."
+Scene: a patio table at sunrise with a coffee mug and the red smartphone face-down, desert garden behind. No people.
+Contact bar + SAVE + SHARE.
+
+C06 · THU NOV 12 · INVESTORS · "7 red flags before buying a rental"
+Recurring object: a small red flag pin
+SLIDE 1 · COVER (01/06)
+Pill: "INVESTOR TIPS"
+Headline: "7 red flags" (black) / "that should stop" (red, brush underline) / "a rental purchase." (white in red box)
+Sub: "Spot them before you sign."
+Scene: a printed property listing on the hood of a car with the small red flag pin stuck into it, a row of homes softly blurred behind at golden hour.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "FLAGS 1 + 2"
+Headline: "HOA rental rules" (black) / "you didn't read." (white in red box)
+Body: "Some communities limit leasing or require approval. Read the CC&Rs first."
+Scene: an HOA booklet open on a table with the red flag pin on the page.
+SLIDE 3 (03/06)
+Pill: "FLAGS 3 + 4"
+Headline: "Unpermitted work" (black) / "and old plumbing." (red, brush underline)
+Body: "A garage turned bedroom or aging pipes can mean big costs later."
+Scene: a converted garage room with exposed pipes in the corner, the red flag pin on a beam.
+SLIDE 4 (04/06)
+Pill: "FLAG 5"
+Headline: "Numbers that only" (black) / "work at full rent." (white in red box)
+Body: "If one empty month breaks the deal, it's too tight."
+Scene: a calculator and a printed rent estimate on a desk, the red flag pin on the paper.
+SLIDE 5 (05/06)
+Pill: "FLAGS 6 + 7"
+Headline: "No inspection." (black) / "No disclosures." (red, brush underline)
+Body: "A seller who won't allow an inspection or share disclosures is telling you something."
+Scene: a home inspector's flashlight on a closed front door step, the red flag pin on the doormat.
+SLIDE 6 · CTA (06/06)
+Headline: "Buy the rental" (black) / "you can rent." (white in red box)
+Sub: "Get a second set of eyes from a team that manages rentals."
+Scene: close-up of two hands shaking in front of a clean Las Vegas home's front door, the red flag pin on a clipboard. Hands only, no faces.
+Contact bar + SAVE + SHARE.
+
+C07 · SAT NOV 14 · RENTERS · "How to spot a rental scam"
+Recurring object: a red magnifying glass
+SLIDE 1 · COVER (01/06)
+Pill: "RENTER ALERT"
+Headline: "Is that rental" (black) / "too good" (red, brush underline) / "to be true?" (white in red box)
+Sub: "How to spot a Las Vegas rental scam."
+Scene: a hand holding a red magnifying glass over a phone showing a listing photo, outdoors at night with city lights glowing in soft bokeh behind. Hand only, no face.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "SIGN 1"
+Headline: "Rent way below" (black) / "the neighborhood." (white in red box)
+Body: "Scammers lure renters with prices that look like a steal."
+Scene: a laptop showing a listing grid, the red magnifying glass over one listing.
+SLIDE 3 (03/06)
+Pill: "SIGN 2"
+Headline: "Pay first," (black) / "see it later." (red, brush underline)
+Body: "Never send a deposit or rent before you see the home and sign a lease."
+Scene: a hand holding cash over a closed envelope, the red magnifying glass on the table.
+SLIDE 4 (04/06)
+Pill: "SIGN 3"
+Headline: "Wire, gift cards" (black) / "or crypto only." (white in red box)
+Body: "Payment methods you can't get back are a classic scam move."
+Scene: gift cards fanned on a table beside the red magnifying glass.
+SLIDE 5 (05/06)
+Pill: "PROTECT YOURSELF"
+Headline: "Tour it." (black) / "Verify the owner." (red, brush underline)
+Body: "Meet in person, see the inside and confirm who owns or manages the home."
+Scene: close-up of two hands shaking at a front door, the red magnifying glass sticking out of a tote bag. Hands only, no faces.
+SLIDE 6 · CTA (06/06)
+Headline: "Rent from" (black) / "a real local team." (white in red box)
+Sub: "Questions about a listing? Call us before you pay anyone."
+Scene: a hand holding house keys inside a bright, real living room, the red magnifying glass on the counter. Hand only, no face.
+Contact bar + SAVE + SHARE.
+
+After the last slide, make ONE downloadable ZIP named IRES_Nov_C05-C07.zip with all 18 slides as PNG, exactly 1080x1350, named like C02_01.png to C02_06.png. Verify every file is complete before giving the link.

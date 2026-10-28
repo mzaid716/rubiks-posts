@@ -1,0 +1,109 @@
+Same rules as C01 (official logo exactly as attached, NO HUMAN FACES - hands or arms only, strong variety between slides, every cover must look different from every other cover, all text 90 px inside the side edges, exactly 4:5).
+
+Make the carousels below now, one after another, without stopping to ask. Exactly 6 images per carousel, in order. Before each image write only the code, for example "C02-1".
+
+C14 · SAT NOV 28 · OWNERS · "Small Business Saturday: your rental is a business"
+Recurring object: a red open sign on a small chalkboard ("OPEN")
+SLIDE 1 · COVER (01/06)
+Pill: "SMALL BUSINESS SATURDAY"
+Headline: "Own a rental?" (black) / "You own a" (red, brush underline) / "small business." (white in red box)
+Sub: "Run it like one."
+Scene: a small chalkboard sign reading "OPEN" on the front porch of a Las Vegas rental home, festive fall decor.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "RULE 1"
+Headline: "Keep" (black) / "clean records." (white in red box)
+Body: "Track every rent payment, repair and receipt in one place."
+Scene: a neat binder and receipts on a desk, the small "OPEN" chalkboard behind them.
+SLIDE 3 (03/06)
+Pill: "RULE 2"
+Headline: "Build a" (black) / "cash reserve." (red, brush underline)
+Body: "Set aside money for repairs and empty months before you need it."
+Scene: a glass jar of coins and bills on a shelf next to the "OPEN" chalkboard.
+SLIDE 4 (04/06)
+Pill: "RULE 3"
+Headline: "Screen like" (black) / "a business." (white in red box)
+Body: "Use the same written criteria for every applicant."
+Scene: rental applications on a clipboard on a kitchen island, the "OPEN" chalkboard nearby.
+SLIDE 5 (05/06)
+Pill: "RULE 4"
+Headline: "Know your" (black) / "numbers yearly." (red, brush underline)
+Body: "Review rent, costs and taxes with a pro every year."
+Scene: a laptop with a chart on a patio table, the "OPEN" chalkboard leaning against a planter.
+SLIDE 6 · CTA (06/06)
+Headline: "Run your rental" (black) / "like a business." (white in red box)
+Sub: "IRES helps Las Vegas owners do it right."
+Small text: "General information, not tax advice."
+Scene: close-up of keys being passed between two hands on a front porch, the "OPEN" chalkboard behind. Hands only, no faces.
+Contact bar + SAVE + SHARE.
+
+C15 · SUN NOV 29 · RENTERS · "Ask before you sign a lease"
+Recurring object: a red clipboard
+SLIDE 1 · COVER (01/06)
+Pill: "RENTER TIPS"
+Headline: "Ask these" (black) / "before you sign" (red, brush underline) / "any lease." (white in red box)
+Sub: "5 questions that save headaches later."
+Scene: a hand holding a red clipboard in a bright empty apartment, sunlight through big windows. Hand only, no face.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "QUESTION 1"
+Headline: "What's included" (black) / "in the rent?" (white in red box)
+Body: "Water, trash, landscaping or pest control? Get it in writing."
+Scene: a kitchen sink with a running faucet, the red clipboard on the counter.
+SLIDE 3 (03/06)
+Pill: "QUESTION 2"
+Headline: "Who handles" (black) / "repairs?" (red, brush underline)
+Body: "Ask how to request repairs and how fast they're handled."
+Scene: an AC vent and thermostat on a hallway wall, the red clipboard leaning below.
+SLIDE 4 (04/06)
+Pill: "QUESTION 3"
+Headline: "What are" (black) / "the pet rules?" (white in red box)
+Body: "Ask about pet deposits, fees and limits before you move in with a pet."
+Scene: a dog bed and leash in a living room corner, the red clipboard on the floor.
+SLIDE 5 (05/06)
+Pill: "QUESTIONS 4 + 5"
+Headline: "Late fees and" (black) / "move-out rules." (red, brush underline)
+Body: "Know when rent is due, what late fees apply and what move-out requires."
+Scene: a lease on a dining table with a pen, the red clipboard beside it.
+SLIDE 6 · CTA (06/06)
+Headline: "Looking for a" (black) / "Las Vegas rental?" (white in red box)
+Sub: "Call IRES. We'll answer every question."
+Scene: the red clipboard leaning on a front door frame of a bright home at golden hour. No people.
+Contact bar + SAVE + SHARE.
+
+C16 · MON NOV 30 · OWNERS · "Plan your 2027 renewals now"
+Recurring object: a red 2027 planner
+SLIDE 1 · COVER (01/06)
+Pill: "OWNER PLANNING"
+Headline: "Plan your" (black) / "2027 rent" (red, brush underline) / "and renewals now." (white in red box)
+Sub: "December goes fast. January comes faster."
+Scene: the red 2027 planner on a coffee table beside a lit fireplace with simple December decor and house keys, warm evening glow.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "STEP 1"
+Headline: "List every" (black) / "lease end date." (white in red box)
+Body: "Know which leases end in the first months of 2027."
+Scene: the red planner open to a calendar page with dates circled.
+SLIDE 3 (03/06)
+Pill: "STEP 2"
+Headline: "Check the" (black) / "market rent." (red, brush underline)
+Body: "Compare similar homes nearby before you set next year's rent."
+Scene: a laptop showing rental listings, the red planner beside it.
+SLIDE 4 (04/06)
+Pill: "STEP 3"
+Headline: "Give notice" (black) / "on time." (white in red box)
+Body: "In Nevada, a rent increase needs at least 60 days' written notice."
+Scene: a written letter in an envelope on a table, the red planner on top.
+SLIDE 5 (05/06)
+Pill: "STEP 4"
+Headline: "Keep good" (black) / "tenants happy." (red, brush underline)
+Body: "A fair renewal often beats an empty month and a new search."
+Scene: two coffee mugs on a sunny front porch railing, the red planner beside them. No people.
+SLIDE 6 · CTA (06/06)
+Headline: "Start 2027" (black) / "ahead." (white in red box)
+Sub: "Let IRES handle renewals for your Las Vegas rental."
+Small text: "General information, not legal advice."
+Scene: a desk with the closed red planner, keys and a small potted plant in warm light.
+Contact bar + SAVE + SHARE.
+
+After the last slide, make ONE downloadable ZIP named IRES_Nov_C14-C16.zip with all 18 slides as PNG, exactly 1080x1350, named like C02_01.png to C02_06.png. Verify every file is complete before giving the link.

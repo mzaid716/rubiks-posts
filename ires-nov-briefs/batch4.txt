@@ -1,0 +1,108 @@
+Same rules as C01 (official logo exactly as attached, NO HUMAN FACES - hands or arms only, strong variety between slides, every cover must look different from every other cover, all text 90 px inside the side edges, exactly 4:5).
+
+Make the carousels below now, one after another, without stopping to ask. Exactly 6 images per carousel, in order. Before each image write only the code, for example "C02-1".
+
+C11 · SUN NOV 22 · OWNERS · "Moving away? Sell or rent your Vegas home"
+Recurring object: a red moving box
+SLIDE 1 · COVER (01/06)
+Pill: "OWNER DECISION"
+Headline: "Leaving Vegas?" (black) / "Sell your home" (red, brush underline) / "or rent it out?" (white in red box)
+Sub: "Ask these 4 questions first."
+Scene: the red moving box in an empty living room glowing with orange sunset light through big windows, house keys on top.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "QUESTION 1"
+Headline: "Would rent cover" (black) / "your costs?" (white in red box)
+Body: "Mortgage, taxes, insurance, HOA and repairs. Run the real numbers."
+Scene: a calculator and mortgage statement on the red moving box.
+SLIDE 3 (03/06)
+Pill: "QUESTION 2"
+Headline: "Do you need" (black) / "the equity now?" (red, brush underline)
+Body: "Selling frees up cash. Renting keeps the home working for you."
+Scene: a piggy bank and keys on a kitchen counter beside the red moving box.
+SLIDE 4 (04/06)
+Pill: "QUESTION 3"
+Headline: "Can you manage" (black) / "from far away?" (white in red box)
+Body: "Repairs, showings and tenant calls don't stop when you move."
+Scene: a phone on an airport seat, the red moving box tag visible on a suitcase.
+SLIDE 5 (05/06)
+Pill: "QUESTION 4"
+Headline: "Will you" (black) / "come back?" (red, brush underline)
+Body: "Plan to return someday? Keeping the home may make sense."
+Scene: a front porch with a welcome mat and the red moving box by the door.
+SLIDE 6 · CTA (06/06)
+Headline: "Not sure yet?" (black) / "Let's run the numbers." (white in red box)
+Sub: "IRES helps owners decide, then sells or manages it."
+Scene: overhead view of hands reviewing papers on a dining table, the red moving box nearby. Hands only, no faces.
+Contact bar + SAVE + SHARE.
+
+C12 · MON NOV 23 · OWNERS · "Thanksgiving travel: prep your rental"
+Recurring object: a red luggage tag
+SLIDE 1 · COVER (01/06)
+Pill: "HOLIDAY PREP"
+Headline: "Traveling for" (black) / "Thanksgiving?" (red, brush underline) / "Prep your rental first." (white in red box)
+Sub: "Holiday problems don't wait for Monday."
+Scene: a packed suitcase with a red luggage tag by a front door, autumn wreath on the door.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "STEP 1"
+Headline: "Share a backup" (black) / "contact." (white in red box)
+Body: "Make sure tenants know who to call if something breaks while you're away."
+Scene: a phone showing a contacts screen on a kitchen counter, the red luggage tag beside it.
+SLIDE 3 (03/06)
+Pill: "STEP 2"
+Headline: "Line up" (black) / "your vendors." (red, brush underline)
+Body: "Know which plumber and AC company answer during the holiday."
+Scene: a fridge with a list of phone numbers held by a magnet, the red luggage tag hanging from the handle.
+SLIDE 4 (04/06)
+Pill: "STEP 3"
+Headline: "Check on any" (black) / "empty homes." (white in red box)
+Body: "Set a thermostat, check doors and plan a walk-through for vacant units."
+Scene: a thermostat on a hallway wall in an empty home, the red luggage tag on a key ring below it.
+SLIDE 5 (05/06)
+Pill: "STEP 4"
+Headline: "Read your" (black) / "insurance policy." (red, brush underline)
+Body: "Some policies have rules about vacant homes. Know yours before you leave."
+Scene: an insurance folder on a table by a window, the red luggage tag on top.
+SLIDE 6 · CTA (06/06)
+Headline: "Enjoy the holiday." (black) / "We've got it." (white in red box)
+Sub: "IRES handles calls and repairs while you're away."
+Scene: a warm Thanksgiving table in the background, a phone face-down and the red luggage tag in the foreground.
+Contact bar + SAVE + SHARE.
+
+C13 · WED NOV 25 · INVESTORS · "Check the HOA before you buy a rental"
+Recurring object: a red pen
+SLIDE 1 · COVER (01/06)
+Pill: "INVESTOR TIPS"
+Headline: "The HOA rule" (black) / "that can wreck" (red, brush underline) / "a rental investment." (white in red box)
+Sub: "Read this before you make an offer."
+Scene: a thick HOA document with the red pen on top, on a poolside patio table at a condo complex, bright midday sun and blue pool water behind.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "PICTURE THIS"
+Headline: "You buy the condo." (black) / "Then read the rules." (white in red box)
+Body: "Leasing limits or approval steps you didn't expect can stall your plans."
+Scene: a condo balcony with a folded HOA booklet on a chair, the red pen clipped to it.
+SLIDE 3 (03/06)
+Pill: "CHECK 1"
+Headline: "Rental rules" (black) / "in the CC&Rs." (red, brush underline)
+Body: "Look for minimum lease terms, approval steps and short-term rental bans."
+Scene: close-up of a page with a paragraph underlined by the red pen.
+SLIDE 4 (04/06)
+Pill: "CHECK 2"
+Headline: "Fees and" (black) / "special assessments." (white in red box)
+Body: "Ask about upcoming assessments and dues increases in the resale package."
+Scene: an HOA statement and a calculator on a kitchen island, the red pen beside them.
+SLIDE 5 (05/06)
+Pill: "CHECK 3"
+Headline: "Tenant" (black) / "registration rules." (red, brush underline)
+Body: "Some HOAs require lease copies or tenant info. Know the process first."
+Scene: a mailbox cluster in a condo complex, the red pen on a clipboard resting on top.
+SLIDE 6 · CTA (06/06)
+Headline: "Buying a rental?" (black) / "Read before you sign." (white in red box)
+Sub: "Our team manages HOA rentals every day."
+Small text: "General information, not legal advice."
+Scene: a hand holding the red pen over documents on a desk, morning light. Hand only, no face.
+Contact bar + SAVE + SHARE.
+
+After the last slide, make ONE downloadable ZIP named IRES_Nov_C11-C13.zip with all 18 slides as PNG, exactly 1080x1350, named like C02_01.png to C02_06.png. Verify every file is complete before giving the link.

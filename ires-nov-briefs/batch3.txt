@@ -1,0 +1,109 @@
+Same rules as C01 (official logo exactly as attached, NO HUMAN FACES - hands or arms only, strong variety between slides, every cover must look different from every other cover, all text 90 px inside the side edges, exactly 4:5).
+
+Make the carousels below now, one after another, without stopping to ask. Exactly 6 images per carousel, in order. Before each image write only the code, for example "C02-1".
+
+C08 · MON NOV 16 · OWNERS · "Your real return"
+Recurring object: a red notebook
+SLIDE 1 · COVER (01/06)
+Pill: "LANDLORD MATH"
+Headline: "Rent isn't" (black) / "your return." (red, brush underline) / "Here's the real math." (white in red box)
+Sub: "Most owners only count the rent check."
+Scene: overhead flat-lay on terracotta tile: a hand writing in the red notebook, a rent check, a pen and a small succulent. Hand only, no face.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "START HERE"
+Headline: "$28,800" (huge red) / "a year in rent." (black)
+Body: "Example: a home renting for $2,400 a month."
+Scene: a laptop showing a simple spreadsheet, the red notebook open beside it.
+SLIDE 3 (03/06)
+Pill: "SUBTRACT"
+Headline: "Taxes, insurance" (black) / "and HOA dues." (white in red box)
+Body: "These come out every year, whether the home is rented or not."
+Scene: a property tax bill and an insurance card on a counter, the red notebook on top.
+SLIDE 4 (04/06)
+Pill: "SUBTRACT"
+Headline: "Repairs and" (black) / "empty months." (red, brush underline)
+Body: "Set aside money for fixes and plan for some vacancy every year."
+Scene: a toolbox on a laundry room floor, the red notebook resting on the dryer.
+SLIDE 5 (05/06)
+Pill: "WHAT'S LEFT"
+Headline: "That's your" (black) / "real return." (white in red box)
+Body: "Track it yearly. Better tenants and fewer empty months raise it."
+Scene: a laptop on a patio table at golden hour showing a simple chart, the red notebook closed beside it. No people.
+SLIDE 6 · CTA (06/06)
+Headline: "Want a clearer" (black) / "picture?" (white in red box)
+Sub: "Talk to a Las Vegas property management team."
+Scene: a desk with the red notebook, keys and a coffee mug in warm late-afternoon light.
+Contact bar + SAVE + SHARE.
+
+C09 · WED NOV 18 · LANDLORDS · "Late rent: handle it right"
+Recurring object: a red envelope labeled "RENT"
+SLIDE 1 · COVER (01/06)
+Pill: "LANDLORD RULES"
+Headline: "Tenant says rent" (black) / "will be late?" (red, brush underline) / "Do this first." (white in red box)
+Sub: "Nevada rules every owner should know."
+Scene: a red envelope labeled "RENT" sitting in a home mailbox, late-afternoon light.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "THE LEASE"
+Headline: "No late fee" (black) / "unless it's in the lease." (white in red box)
+Body: "In Nevada, a late fee must be written in the rental agreement."
+Scene: a lease open on a desk with the late fee section paper-clipped, the red envelope beside it.
+SLIDE 3 (03/06)
+Pill: "THE LIMIT"
+Headline: "Max late fee:" (black) / "5% of the rent." (red, brush underline)
+Body: "And it can't be charged until at least 3 calendar days after rent is due."
+Scene: a calendar on a fridge with the 1st and 4th circled in red, the red envelope under a magnet.
+SLIDE 4 (04/06)
+Pill: "PUT IT IN WRITING"
+Headline: "Agree on a plan" (black) / "in writing." (white in red box)
+Body: "Dates, amounts and what happens if a payment is missed. Keep a copy."
+Scene: overhead view of two hands signing a short agreement on a wood table, the red envelope between them. Hands only, no faces.
+SLIDE 5 (05/06)
+Pill: "STAY CONSISTENT"
+Headline: "Same rules" (black) / "for every tenant." (red, brush underline)
+Body: "Treat every late payment the same way and keep records of everything."
+Scene: a neat file box with labeled folders, the red envelope on top.
+SLIDE 6 · CTA (06/06)
+Headline: "Rent issues?" (black) / "We handle them." (white in red box)
+Sub: "Let IRES manage rent collection for your Las Vegas rental."
+Small text: "General information, not legal advice."
+Scene: a calm living room at dusk with the red envelope opened on the coffee table. No people.
+Contact bar + SAVE + SHARE.
+
+C10 · FRI NOV 20 · BUYERS + SELLERS · "Buyer's or seller's market?"
+Recurring object: a red magnifying glass over a small model house
+SLIDE 1 · COVER (01/06)
+Pill: "MARKET UPDATE"
+Headline: "Buyer's market or" (black) / "seller's market?" (red, brush underline) / "Vegas, right now." (white in red box)
+Sub: "Three numbers tell the story."
+Scene: a small model house and the red magnifying glass on a balcony ledge overlooking a Las Vegas neighborhood at blue hour, house lights glowing.
+SWIPE →
+SLIDE 2 (02/06)
+Pill: "NUMBER 1"
+Headline: "$470,000" (huge red) / "median single-family price." (black)
+Body: "September 2026. Flat compared with a year earlier."
+Scene: a SOLD sign rider on a lawn sign in front of a Las Vegas home at golden hour.
+SLIDE 3 (03/06)
+Pill: "NUMBER 2"
+Headline: "About 5 months" (black) / "of supply." (white in red box)
+Body: "Up from about 4 months a year ago. More choices for buyers."
+Scene: a row of single-story homes on a quiet street, the model house and magnifying glass on a car hood in the foreground.
+SLIDE 4 (04/06)
+Pill: "NUMBER 3"
+Headline: "7,995 homes" (black) / "without offers." (red, brush underline)
+Body: "Single-family listings in September, up 6.6% from last year."
+Scene: a "FOR SALE" sign in front of a home with blinds closed, soft morning light.
+SLIDE 5 (05/06)
+Pill: "WHAT IT MEANS"
+Headline: "Buyers can" (black) / "negotiate again." (white in red box)
+Body: "Sellers who price it right and prepare the home still sell."
+Scene: close-up of hands shaking over a kitchen island, the model house on the counter. Hands only, no faces.
+SLIDE 6 · CTA (06/06)
+Headline: "Buying or selling" (black) / "this winter?" (white in red box)
+Sub: "Get the numbers for your neighborhood."
+Small text: "Source: Las Vegas REALTORS, September 2026."
+Scene: a desk with the model house, the red magnifying glass and a laptop in warm light.
+Contact bar + SAVE + SHARE.
+
+After the last slide, make ONE downloadable ZIP named IRES_Nov_C08-C10.zip with all 18 slides as PNG, exactly 1080x1350, named like C02_01.png to C02_06.png. Verify every file is complete before giving the link.
