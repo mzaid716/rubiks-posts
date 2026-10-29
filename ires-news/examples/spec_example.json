@@ -1,0 +1,17 @@
+{"photo": "cover.png",
+ "cover": {"label": "LAS VEGAS NEWS", "line1": "VEGAS HOME SALES", "line2": "DROP 22.7%",
+   "sub": "Pending sales vs. a year ago", "source": "Source: Redfin, 4 weeks ending Oct. 25, 2026"},
+ "details": [
+  {"label": "THE DETAILS", "white": "FEWER BUYERS", "red": "SIGNING CONTRACTS",
+   "bullets": ["Las Vegas pending sales are down <b class=red>22.7%</b> from a year ago",
+               "That's one of the biggest drops of any major U.S. metro",
+               "Nationally, pending sales fell <b>15.9%</b>",
+               "U.S. prices dipped for the first time in 3 years"],
+   "source": "Source: Redfin, 4 weeks ending Oct. 25, 2026"},
+  {"label": "FOR OWNERS", "white": "MORE HOMES", "red": "SITTING LONGER",
+   "bullets": ["<b class=red>7,995</b> Vegas single-family homes had no offer at the end of September",
+               "That's up <b>6.6%</b> from a year ago",
+               "The median price held at <b>$470,000</b>",
+               "Supply is near five months, up from four"],
+   "source": "Source: Las Vegas REALTORS®, September 2026"}],
+ "cta": {"white": "NOT SELLING?", "red": "RENT IT OUT.", "sub": "If your home isn't moving, IRES can help you lease and manage it."}}
