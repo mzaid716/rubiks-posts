@@ -71,7 +71,7 @@ def cta(c, n):
  {logo(230)}<div class=swipe style="background:#D4A537;color:#111">SAVE + SHARE</div></div></div>""")
 
 if __name__ == "__main__":
-    spec = json.load(open(sys.argv[1])); out = pathlib.Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)
+    spec = json.load(open(sys.argv[1])); out = pathlib.Path(sys.argv[2]).resolve(); out.mkdir(parents=True, exist_ok=True)
     photo = pathlib.Path(spec['photo']).resolve()
     n = 2 + len(spec['details'])
     pages = [cover(spec['cover'], photo, n)] + [details(d, i + 2, n) for i, d in enumerate(spec['details'])] + [cta(spec['cta'], n)]
