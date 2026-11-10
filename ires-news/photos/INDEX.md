@@ -36,6 +36,7 @@ Use a custom ChatGPT photo only when no library photo fits a big story, and add 
 - rent-05-moving-boxes.jpg
 - rent-06-townhomes-row.jpg
 - rent-38-keys-handoff-golden-hour.jpg
+- rent-39-suitcase-front-door.jpg (short-term rental / guest arrival)
 
 ## sale — home sales, prices, buyers, sellers
 - sale-07-suburban-street.jpg
